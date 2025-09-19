@@ -27,4 +27,6 @@ Provide insights into the performance of Nigeria’s major telecom operators (MT
 - Compare Nigeria’s performance with peer African markets.  
 - Automate periodic data updates with scripts.  
 
-## Repository Structure
+## Tools
+Excel · SQL · R · Tableau
+
