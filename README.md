@@ -24,7 +24,8 @@ This project explores the growth of Nigeria’s mobile industry by reconciling d
 - After conversion, WB and NCC totals align closely, with small gaps due to reporting methods.  
 - **Subscriptions and teledensity rose steadily until 2021, then plummeted from 2022 onward.**  
 - By 2023, subscriptions fell back to ~220 million, with teledensity also declining, driven largely by the **NIN–SIM linkage directive (2022–2023)** that barred unregistered lines.  
-- The recent decline highlights a **critical shift** in Nigeria’s telecom sector after years of uninterrupted growth.
+- The recent decline highlights a **critical shift** in Nigeria’s telecom sector after years of uninterrupted growth.  
+- This disruption is clearly quantified in the **impact_results table**, where subscription losses following the 2022 and 2023 enforcement dates show sharp negative changes.
 
 
 ## Tools
