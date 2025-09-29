@@ -31,3 +31,6 @@ This project explores Nigeria’s mobile industry using data from the **Nigerian
 ## Tools  
 R · PowerPoint · Gamma 
 
+## Presentation
+📑 [View the Presentation](presentation/Nigerias-Telecom-Growth-Journey.pdf)
+
