@@ -1,32 +1,32 @@
-# 📡 Telecom Data Analytics Case Study: Nigeria
+# 📡 Telecom Data Analytics Case Study: Nigeria  
 
-## Project Overview
-This project explores the growth of Nigeria’s mobile industry by reconciling data from the **Nigerian Communications Commission (NCC)** and the **World Bank (WB)**. The analysis focuses on mobile subscription totals and teledensity trends, providing a snapshot of market expansion and saturation over time.
+## Project Overview  
+This project explores Nigeria’s mobile industry using data from the **Nigerian Communications Commission (NCC)** and the **World Bank (WB)**. It highlights how mobile subscriptions and teledensity expanded rapidly from 2000, and the sudden reversal that began after 2021.  
 
-## Goal
+## Goal  
 - Convert World Bank’s *“mobile subscriptions per 100 people”* into total subscriptions using Nigeria’s population.  
-- Merge World Bank totals with NCC’s annual (December) subscription figures.  
-- Compare reporting differences between NCC and WB.  
-- Track **teledensity trends** alongside subscription growth.  
-- Communicate insights through clear visualizations and storytelling.
+- Merge World Bank totals with NCC’s annual December subscription figures.  
+- Compare differences between NCC and WB reporting.  
+- Track teledensity alongside subscription growth.  
+- Communicate insights through visualizations and storytelling.  
 
-## Datasets
-- **Nigerian Communications Commission (NCC):** Monthly mobile subscriptions & teledensity.  
-- **World Bank (WB):** Mobile cellular subscriptions per 100 people.  
-- **World Bank (Population):** Annual Nigerian population estimates.  
+## Datasets  
+- **Nigerian Communications Commission (NCC):** Monthly subscriptions and teledensity  
+- **World Bank (WB):** Mobile cellular subscriptions per 100 people  
+- **World Bank (Population):** Annual Nigerian population estimates  
 
-## Methodology
-- **R (dplyr, readr, ggplot2):** Data cleaning, merging, and visualization.  
-- **PowerPoint:** Storytelling of insights and trends.  
+## Methodology  
+- **R (dplyr, readr, ggplot2):** Data cleaning, merging, visualization  
+- **PowerPoint:** Storytelling of insights and trends  
+- **Gamma / AI:** Assisted presentation design and refinement  
 
-## Key Insights
-- Both NCC and World Bank datasets confirm strong growth in Nigeria’s mobile subscriptions since 2000.  
-- After conversion, WB and NCC totals align closely, with small gaps due to reporting methods.  
-- **Subscriptions and teledensity rose steadily until 2021, then plummeted from 2022 onward.**  
-- By 2023, subscriptions fell back to ~220 million, with teledensity also declining, driven largely by the **NIN–SIM linkage directive (2022–2023)** that barred unregistered lines.  
-- The recent decline highlights a **critical shift** in Nigeria’s telecom sector after years of uninterrupted growth.  
-- This disruption is clearly quantified in the **impact_results table**, where subscription losses following the 2022 and 2023 enforcement dates show sharp negative changes.
+## Key Insights  
+- Subscriptions grew from almost zero in 2000 to over 200 million by the early 2020s  
+- World Bank and NCC totals align closely once converted to the same scale  
+- Subscriptions and teledensity rose steadily until 2021, then dropped sharply after 2022  
+- By 2023, subscriptions fell back to about 220 million, with teledensity also declining  
+- The downturn aligns with the **NIN–SIM linkage directive**, which deactivated unregistered lines  
+- Charts and the **impact results table** in this repo show how sudden and disruptive the shift was  
 
-
-## Tools
-R · PowerPoint
+## Tools  
+R · PowerPoint · Gamma · AI  
