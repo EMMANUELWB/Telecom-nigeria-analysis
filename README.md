@@ -29,8 +29,5 @@ This project explores Nigeria’s mobile industry using data from the **Nigerian
 - Charts and the **impact results table** in this repo show how sudden and disruptive the shift was  
 
 ## Tools  
-HEAD
-R · PowerPoint · Gamma · AI  
-
 R · PowerPoint · Gamma 
-ac7ac3e (Update README and clean repo folders)
+
